@@ -1,5 +1,8 @@
 
-# Deploy Laravel Apps on Server (Nginx)  
+# Deploy Laravel Apps on Nginx
+
+<img src="https://blog.petehouston.com/wp-content/uploads/2017/11/laravel-nginx.jpg">
+
 Go to all projects folder
 ```bash
 cd /var/www
